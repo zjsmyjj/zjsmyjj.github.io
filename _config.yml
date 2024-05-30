@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : # None
+  avatar           : "yeqijia.png"
+  name             : "Qijia Ye"
   pronouns         : "He/him/his"  
   bio              : # None
-  location         : "Philadelphia, USA"
+  location         : # None
   employer         : "University of Pennsylvania"
   uri              : # URL
   email            : "yeqijia@upenn.edu" 
